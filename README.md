@@ -89,11 +89,9 @@ ollama pull qwen3:8b
 
 Additional wake-word model files are required for local wake detection.
 
-## AI-assisted development
+## My contribution
 
-I used AI coding tools extensively while building JARVIS. My role was defining what I wanted the system to do, deciding how the parts should work together, integrating providers/tools, testing workflows, debugging failures and iterating on the product.
-
-I do not present this repository as code that I wrote line-by-line without AI assistance. The project is evidence of how I used modern tools to design, integrate and troubleshoot a fairly complex system while learning the underlying technologies.
+I defined the assistant's requirements and tool boundaries, chose and integrated the model and automation components, tested workflows, traced failures and iterated on the desktop experience. Coding assistants contributed substantially to implementation. The project demonstrates system integration and troubleshooting; the limitations and test coverage are detailed in the technical report.
 
 ## Security note
 
