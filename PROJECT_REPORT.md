@@ -63,6 +63,6 @@ The full live desktop/voice/browser suite was not re-run because private credent
 
 The portfolio copy excludes browser profiles, cookies, user memory databases, preferences, audit logs, generated user work and model weights. No live hardcoded project credential was identified in the cleaned source. Gemini credentials were accessed through Windows Credential Manager rather than stored directly in project files.
 
-## AI-assisted development
+## Implementation approach
 
-I used AI coding tools extensively. I directed the product, architecture decisions, integrations, testing and debugging while AI generated and modified substantial parts of the code. This project is presented as evidence of system design, integration, experimentation and troubleshooting — not as a claim that every line was written manually.
+I specified behaviour and constraints, integrated services and tools, tested key workflows and debugged failures. Coding assistants generated and modified substantial portions of the implementation; the verified work here concerns integration, product decisions and the documented tests, not a claim of hand-writing the entire codebase.
